@@ -22,4 +22,8 @@ To create a reliable and immutable attendance tracking system that eliminates fr
 - **Transparency**: Attendance records are visible and verifiable by all stakeholders.
 - **Tamper-proof**: Once recorded, attendance data cannot be altered.
 - **Automated Tracking**: The system records the timestamp when attendance is marked.
+  
 
+## Contract Address
+0x958b14010C905276747D2f9095a33e7F40bEa0cA
+![image](https://github.com/user-attachments/assets/ac63fe4e-7cd7-4a45-aabe-06b0b3549658)
