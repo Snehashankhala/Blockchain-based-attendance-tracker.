@@ -27,3 +27,7 @@ To create a reliable and immutable attendance tracking system that eliminates fr
 ## Contract Address
 0x958b14010C905276747D2f9095a33e7F40bEa0cA
 ![image](https://github.com/user-attachments/assets/ac63fe4e-7cd7-4a45-aabe-06b0b3549658)
+
+## Frontend
+![image](https://github.com/user-attachments/assets/b1f7eb87-e98b-4d23-b546-da13c755757f)
+
